@@ -1,0 +1,5 @@
+emp_id,emp_name,emp_role,emp_salary,emp_age,emp_manager,emp_bonus
+1,ajay,developer,10000,40,GT,5000
+2,vijay,tester,9000,25,SG,6000
+3,neo,cloud,12000,26,AJ,2500
+4,kai,database,16000,23,RT,3000
